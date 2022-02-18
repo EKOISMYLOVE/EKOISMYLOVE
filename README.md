@@ -13,6 +13,14 @@ I graduated from National Taipei University of Technology, M.S. in Computer Scie
 <span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
+<hr>
+<h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
+<hr>
+<h3><img height="20px" src="https://img.shields.io/badge/Library-505558"/></h3>
+<hr>
+<h3><img height="20px" src="https://img.shields.io/badge/Platform-487088"/></h3>
+<hr>
+<h3><img height="20px" src="https://img.shields.io/badge/Tool-6c598f"/></h3>
 
   
 
