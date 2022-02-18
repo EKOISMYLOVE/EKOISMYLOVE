@@ -21,8 +21,8 @@ I graduated from National Taipei University of Technology, M.S. in Computer Scie
 <h3><img height="20px" src="https://img.shields.io/badge/Platform-487088"/></h3>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Tool-6c598f"/></h3>
-![](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff)
-![](https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
+<span><img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff"/></span>
+<span><img src="https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=Visual-Studio-Code&logoColor=fff"/></span>
   
 
 
