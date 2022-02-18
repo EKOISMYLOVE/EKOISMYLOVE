@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<h2 align="center">A little about me</h2>
+<h2 align="center">About me</h2>
 
 <h2 align="center">Current Knowledge</h2>
 
