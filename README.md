@@ -15,6 +15,7 @@ I graduated from National Taipei University of Technology, M.S. in Computer Scie
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
+<span><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=fff"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Networking-505558"/></h3>
 <hr>
