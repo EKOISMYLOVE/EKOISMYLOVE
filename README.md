@@ -10,7 +10,7 @@ I graduated from National Taipei University of Technology, M.S. in Computer Scie
 **NOTE:** Below is a list of things I've used in atleast one of my projects or work. It doesn't mean I know everything about them.
 
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
-<span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></span>
+<span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
 <hr>
