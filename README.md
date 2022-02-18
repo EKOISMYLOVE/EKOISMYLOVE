@@ -2,6 +2,10 @@
 
 <h2 align="center">A little about me</h2>
 
+<h2 align="center">Current Knowledge</h2>
+
+**NOTE:** Below is a list of things I've used in atleast one of my projects or work. It doesn't mean I know everything about them.
+
 <!--
 **EKOISMYLOVE/EKOISMYLOVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
