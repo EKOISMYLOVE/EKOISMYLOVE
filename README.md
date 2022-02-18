@@ -20,7 +20,7 @@ I graduated from National Taipei University of Technology, M.S. in Computer Scie
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
 <span><img src="https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=Go&logoColor=fff"/></span>
+<span><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=Go&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=C%2B%2B&logoColor=fff"/><span>
