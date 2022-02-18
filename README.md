@@ -11,6 +11,9 @@ I graduated from National Taipei University of Technology, M.S. in Computer Scie
 
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
 <span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></span>
+<hr>
+<h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
+
 
 <!--
 **EKOISMYLOVE/EKOISMYLOVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
