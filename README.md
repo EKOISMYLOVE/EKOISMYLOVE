@@ -3,7 +3,7 @@
 <h2 align="center">About me</h2>
 I graduated from National Taipei University of Technology, M.S. in Computer Science.
 
-- 🌱 I’m currently learning ... Go、Docker、Kubernetes
+- 🌱 I’m currently learning ... Go、CI/CD、Docker、Kubernetes
 
 <h2 align="center">Current Knowledge</h2>
 
