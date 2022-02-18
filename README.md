@@ -2,6 +2,8 @@
 
 <h2 align="center">About me</h2>
 
+- 🌱 I’m currently learning ... Go, 
+
 <h2 align="center">Current Knowledge</h2>
 
 **NOTE:** Below is a list of things I've used in atleast one of my projects or work. It doesn't mean I know everything about them.
