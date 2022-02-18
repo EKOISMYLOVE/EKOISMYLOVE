@@ -24,6 +24,7 @@ I graduated from National Taipei University of Technology, M.S. in Computer Scie
 <h3><img height="20px" src="https://img.shields.io/badge/Server & Networking-505558"/></h3>
   <span><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/-Cisco%20Networking-1ba0d7?style=flat-square&logo=Cisco&logoColor=fff"></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Tool-6c598f"/></h3>
 <span><img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff"/></span>
