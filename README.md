@@ -18,7 +18,6 @@ I graduated from National Taipei University of Technology, M.S. in Computer Scie
 <span><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=Go&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=Python&logoColor=fff"/></span>
-<span><img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=C%2B%2B&logoColor=fff"/><span>
 <span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=Javascript&logoColor=%23F7DF1E"></span>
 <hr>
