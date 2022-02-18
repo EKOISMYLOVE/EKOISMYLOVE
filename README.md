@@ -15,12 +15,12 @@ I graduated from National Taipei University of Technology, M.S. in Computer Scie
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
-<span><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=fff"/></span>
-<span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=fff"/></span>
+<span><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=Go&logoColor=fff"/></span>
+<span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=fff"/></span>
+<span><img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=Python&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=fff"/></span>
-<span><img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=fff"/></span>
-<span><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=fff"/><span>
-<span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"></span>
+<span><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=C%2B%2B&logoColor=fff"/><span>
+<span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=Javascript&logoColor=%23F7DF1E"></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Networking-505558"/></h3>
 <hr>
