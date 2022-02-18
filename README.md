@@ -19,12 +19,12 @@ I graduated from National Taipei University of Technology, M.S. in Computer Scie
 <span><img src="https://img.shields.io/badge/-Vuepress-42b983?style=flat-square&logo=vuedotjs&logoColor=fff"></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
-<span><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=Go&logoColor=fff"/></span>
-<span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=fff"/></span>
-<span><img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=Python&logoColor=fff"/></span>
-<span><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=C%2B%2B&logoColor=fff"/><span>
-<span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=Javascript&logoColor=%23F7DF1E"></span>
+<span><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=fff"/></span>
+<span><img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=fff"/></span>
+<span><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=C%2B%2B&logoColor=fff"/><span>
+<span><img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=Javascript&logoColor=%23F7DF1E"></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Server & Networking-505558"/></h3>
   <span><img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=Windows&logoColor=white"></span>
