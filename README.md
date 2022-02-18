@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <h2 align="center">A little about me</h2>
 
