@@ -1,8 +1,9 @@
 ### Hi 👋
 
 <h2 align="center">About me</h2>
+I graduated from National Taipei University of Technology, M.S. in Computer Science.
 
-- 🌱 I’m currently learning ... Go, 
+- 🌱 I’m currently learning ... Go、Docker、Kubernetes
 
 <h2 align="center">Current Knowledge</h2>
 
