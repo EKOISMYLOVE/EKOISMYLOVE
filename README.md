@@ -4,7 +4,7 @@
 I graduated from National Taipei University of Technology, M.S. in Computer Science.
 
 - 🌱 I’m currently learning ... Go、CI/CD
-- 🎵 I like ... travel、gardening
+- 🎵 I like ... travel、photograph、gardening
 
 <h2 align="center">Current Knowledge</h2>
 
