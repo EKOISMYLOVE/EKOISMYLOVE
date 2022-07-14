@@ -10,19 +10,21 @@
 </a>
 </div>
 
-#### 👇 About me
+<br/>
 
----
+## 👇 About me 
 
 I'm Wei, you can call me WeiWei, Eko is my belief.  
-
 I graduated from National Taipei University of Technology, M.S. in Computer Science.  
 
 - 🌱 I’m currently learning ... Go、CI/CD
-- 🎵 I like ... travel、photograph、gardening
+- 🎵 I like ... travel、photograph、gardening  
 
-#### 📚 Current Knowledge 
-<hr>
+<br/>
+
+
+## 📚 Current Knowledge 
+
 
 > **NOTE:** Below is a list of things I've used in at least one of my projects or work. It doesn't mean I know everything about them.  
 
@@ -43,8 +45,10 @@ I graduated from National Taipei University of Technology, M.S. in Computer Scie
 <span><img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/-Visual_Studio_Code-007acc?style=flat-square&logo=Visual-Studio-Code&logoColor=fff"/></span>
 
-#### 📊 Stats  
-<hr>
+<br/>
+
+## 📊 Stats  
+
   
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=EKOISMYLOVE&show_icons=true&hide_border=true&line_height=20&bg_color=232f3e&title_color=ec912d&text_color=fff&icon_color=ec912d">
