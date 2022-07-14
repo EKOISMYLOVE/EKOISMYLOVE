@@ -35,7 +35,8 @@ I graduated from National Taipei University of Technology, M.S. in Computer Scie
 <span><img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/-Visual_Studio_Code-007acc?style=flat-square&logo=Visual-Studio-Code&logoColor=fff"/></span>
   
-
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=EKOISMYLOVE&theme=gruvbox)](https://github.com/EKOISMYLOVE/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EKOISMYLOVE&layout=compact&theme=gruvbox)](https://github.com/EKOISMYLOVE/github-readme-stats)
 
 <!--
 **EKOISMYLOVE/EKOISMYLOVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
