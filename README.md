@@ -34,10 +34,15 @@ I graduated from National Taipei University of Technology, M.S. in Computer Scie
 <h3><img height="20px" src="https://img.shields.io/badge/Tool-6c598f"/></h3>
 <span><img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/-Visual_Studio_Code-007acc?style=flat-square&logo=Visual-Studio-Code&logoColor=fff"/></span>
-  
-<center>[![My Github stats](https://github-readme-stats.vercel.app/api?username=EKOISMYLOVE&theme=gruvbox)](https://github.com/EKOISMYLOVE/github-readme-stats)</center>
-<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EKOISMYLOVE&layout=compact&theme=gruvbox)](https://github.com/EKOISMYLOVE/github-readme-stats)</center>
 
+  
+  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=EKOISMYLOVE&show_icons=true&hide_border=true&line_height=20&bg_color=232f3e&title_color=ec912d&text_color=fff&icon_color=ec912d">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EKOISMYLOVE&show_icons=true&hide_border=true&langs_count=10&layout=compact&include_all_commits=true&bg_color=232f3e&title_color=fff&text_color=fff&hide=jupyter%20notebook,css,html,javascript,c%23&exclude_repo=onos,sona-cni">
+
+</div>
+  
 <!--
 **EKOISMYLOVE/EKOISMYLOVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
