@@ -17,7 +17,7 @@
 I'm Wei, you can call me WeiWei, Eko is my belief.  
 I graduated from National Taipei University of Technology, M.S. in Computer Science.  
 
-- 🌱 I’m currently learning ... Go、CI/CD
+- 🌱 I’m currently learning ... Github actions
 - 🎵 I like ... travel、photograph、gardening  
 
 <br/>
