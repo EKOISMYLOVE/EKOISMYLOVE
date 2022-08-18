@@ -52,9 +52,11 @@ I graduated from National Taipei University of Technology, M.S. in Computer Scie
   
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=EKOISMYLOVE&show_icons=true&hide_border=true&line_height=20&bg_color=232f3e&title_color=ec912d&text_color=fff&icon_color=ec912d">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EKOISMYLOVE&show_icons=true&hide_border=true&langs_count=10&layout=compact&include_all_commits=true&bg_color=232f3e&title_color=fff&text_color=fff&hide=jupyter%20notebook,css,html,javascript,c%23&exclude_repo=onos,sona-cni">
-![LeetCode Stats](https://leetcode.card.workers.dev/EKOISMYLOVE?theme=dark&font=baloo&extension=null)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EKOISMYLOVE&show_icons=true&hide_border=true&langs_count=10&layout=compact&include_all_commits=true&bg_color=232f3e&title_color=fff&text_color=fff&hide=jupyter%20notebook,css,html,javascript,c%23&exclude_repo=onos,sona-cni"></br>
+<img src="https://leetcode.card.workers.dev/EKOISMYLOVE?theme=dark&font=baloo&extension=null">
 </div>
+  
+
   
 <!--
 **EKOISMYLOVE/EKOISMYLOVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
